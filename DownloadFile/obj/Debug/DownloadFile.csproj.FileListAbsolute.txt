@@ -1,0 +1,10 @@
+C:\Users\Enaldo\source\repos\DownloadFile\DownloadFile\bin\Debug\DownloadFile.exe.config
+C:\Users\Enaldo\source\repos\DownloadFile\DownloadFile\bin\Debug\DownloadFile.exe
+C:\Users\Enaldo\source\repos\DownloadFile\DownloadFile\bin\Debug\DownloadFile.pdb
+C:\Users\Enaldo\source\repos\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csprojAssemblyReference.cache
+C:\Users\Enaldo\source\repos\DownloadFile\DownloadFile\obj\Debug\DownloadFile.Properties.Resources.resources
+C:\Users\Enaldo\source\repos\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csproj.GenerateResource.cache
+C:\Users\Enaldo\source\repos\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csproj.CoreCompileInputs.cache
+C:\Users\Enaldo\source\repos\DownloadFile\DownloadFile\obj\Debug\DownloadFile.exe
+C:\Users\Enaldo\source\repos\DownloadFile\DownloadFile\obj\Debug\DownloadFile.pdb
+C:\Users\Enaldo\source\repos\DownloadFile\DownloadFile\obj\Debug\DownloadFile.FrmDownloadFile.resources
